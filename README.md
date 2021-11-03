@@ -3,7 +3,7 @@
 [![CodeQL](https://github.com/ChristophePelichet/ADEmployeeIDUpdate/workflows/PSScriptAnalyzer/badge.svg)](https://github.com/ChristophePelichet/ADEmployeeIDUpdate/actions?query=workflow%3APSScriptAnalyzer)
 
 ## Description
-Simple script to update the attrikbut "EmployeeID" in the active directory with a csv file as source.
+Simple script to update the attribut "EmployeeID" in the active directory with a csv file as source.
 
 ## Configuration
 Configure this variable selon according to your configuration
